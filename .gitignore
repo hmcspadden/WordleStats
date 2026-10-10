@@ -3,6 +3,6 @@ nohup.out
 users/
 .env
 *.env
-__pycache__
-users/*
+__pycache__/
+users/
 users_backup/
